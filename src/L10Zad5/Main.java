@@ -28,16 +28,5 @@ public class Main {
             }
         } while (znaj);
 
-
-
-//        try(FileReader fr = new FileReader("plewibnra.txt")){
-//            do {
-//                fr.read();
-//            } while (fr.read() != -1);
-//        } catch (Exception e) {
-//            System.out.println("Coś poszło nie tak");
-//            System.out.println(e);
-//        }
-
     }
 }
